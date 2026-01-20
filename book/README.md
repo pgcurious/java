@@ -34,6 +34,7 @@ This book is designed for Java developers who are comfortable with Java 8 fundam
 | [4](chapters/04-sealed-classes.md) | Sealed Classes | Java 17 | Restricted inheritance, domain modeling |
 | [5](chapters/05-pattern-matching-instanceof.md) | Pattern Matching for instanceof | Java 16 | Type patterns, eliminating casts |
 | [6](chapters/06-switch-expressions.md) | Switch Expressions & Patterns | Java 21 | Arrow syntax, pattern matching in switch |
+| [6B](chapters/06b-functional-interfaces.md) | Functional Interfaces Deep Dive | Java 8+ | Predicate, Function, Consumer, Supplier, composition |
 
 ### Part II: API Improvements
 
